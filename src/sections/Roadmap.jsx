@@ -12,7 +12,7 @@ const Roadmap = () => {
       </div>
       <div className="w-full max-w-screen-lg px-4 sm:px-6 md:px-8 lg:px-10">
         <p className="text-base sm:text-lg md:text-xl lg:text-3xl text-center mt-3 mb-32 font-anton">
-        Join us on an exciting journey with $CROC, led by the OG Solana Professor. Once we hit a $1M market cap, we’ll reveal our big plans and exciting collaborations. Spread the word and let's achieve great things together with $CROC!
+        Join us on an exciting journey with $SNAP, led by the OG Solana Professor. Once we hit a $1M market cap, we’ll reveal our big plans and exciting collaborations. Spread the word and let's achieve great things together with $SNAP!
         </p>
       </div>
     </section>
