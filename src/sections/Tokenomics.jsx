@@ -35,10 +35,10 @@ const Tokenomics = () => {
           <a href="https://pump.fun/" target="_blank" className="">PUMP.FUN</a>
         </button>
         <button className="bg-[#8da7ff] text-white rounded-3xl hover:bg-blue-700 font-anton text-[20px] border-4 border-solid border-black py-[30px] px-[150px]">
-          <a href="https://x.com/" target="_blank" className="">TWITTER</a>
+          <a href="https://x.com/SnapTeacher" target="_blank" className="">TWITTER</a>
         </button>
         <button className="bg-[#8da7ff] text-white rounded-3xl hover:bg-blue-700 font-anton text-[20px] border-4 border-solid border-black py-[30px] px-[150px]">
-          <a href="https://t.me/" target="_blank" className="">TELEGRAM</a>
+          <a href="https://t.me/TeacherSNAPsol" target="_blank" className="">TELEGRAM</a>
         </button>
         <button className="bg-[#8da7ff] text-white rounded-3xl hover:bg-blue-700 font-anton text-[20px] border-4 border-solid border-black py-[30px] px-[150px]">
           <a href="https://dexscreener.com/" target="_blank" className="">DEXSCREENER</a>
