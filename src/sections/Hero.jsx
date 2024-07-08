@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="w-full mx-16">
         <img src={bannerMain} alt="banner" className="w-full" />
       </div>
-      <h1 className="flex justify-center font-anton text-[35px] mb-10 mt-16">CA: </h1>
+      <h1 className="flex justify-center font-anton text-[35px] mb-10 mt-16">CA: 7eVezzYBgDZ2pyLr33YXV682pBMnjeSqYLRcsBw5s5F6</h1>
     </section>
   );
 };
